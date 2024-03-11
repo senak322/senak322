@@ -46,9 +46,9 @@
 
 
 ### 📊&nbsp;My Activity: 
-<div align="center" max-height="100px">
+<div>
   <a href="https://git.io/streak-stats"><img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=senak322&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
-  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senak322&hide=css&langs_count=4&theme=react&hide_border=true&border_radius=5"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senak322&&langs_count=5&theme=react&hide_border=true&border_radius=5"/>
   <!--<img width="49%" src="https://github-readme-stats.vercel.app/api?username=senak322&show_icons=true&theme=react&hide_border=true&border_radius=5"/>-->
 </div>
 
