@@ -1,4 +1,4 @@
-<h1>👋 Hey There! I'm Aleksandr, web developer.
+<h1>👋 Hey There! I'm Aleksandr, Front-end developer.
     <img src="https://komarev.com/ghpvc/?username=senak322" alt="stats"/>
 </h1>
 
